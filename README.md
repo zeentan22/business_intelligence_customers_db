@@ -1,3 +1,5 @@
+# Business Intelligence Dashboard Project
+
 This is a simple project that features using MySQL and Tableau to create a simple business intelligence dashboard.
 
 MySQl database script is taken from https://www.mysqltutorial.org/mysql-sample-database.aspx
