@@ -1,0 +1,8 @@
+productLine,"sum(o.quantityOrdered * o.priceEach)"
+Motorcycles,1121426.12
+"Classic Cars",3853922.49
+"Trucks and Buses",1024113.57
+"Vintage Cars",1797559.63
+Planes,954637.54
+Ships,663998.34
+Trains,188532.92
